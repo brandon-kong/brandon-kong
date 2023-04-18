@@ -2,7 +2,11 @@
 <h1 align="center">  
   Brandon Kong
 </h1>
-  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brandon-kong&show_icons=true&theme=dark" />
+</p>
+
 <p align="center">
   <img src="https://bestanimations.com/media/guys-dancing/802306631funny-guys-dancing-animated-gif-10.gif" height="auto" width="400" style="border-radius: 50px" alt="Cool dancing :)"/>
 </p>
