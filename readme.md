@@ -28,12 +28,9 @@
   <ul>
     <summary>
       <h2 align="left" style="display: block;">
-        <a href="https://github.com/brandon-kong/Faceade">Faceade</a>:
+        WIP
       </h2>
     </summary>
     
   </ul>
-  <p>Faceade is one of many personal projects of mine that involves face detection software. Basically, it's a multiplayer web-based drawing game that was
-      designed to be played with friends. Instead of using a mouse to draw on the canvas, players must draw using their nose, and others can watch how silly the drawer looks! More information about the project's stack is on the repository's <code>readme.md</code>
-      </p>
 </div>
