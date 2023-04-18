@@ -18,19 +18,3 @@
   
   
 </p>
-
-<hr>
-<h2 align="center">
-  Projects  
-</h2>
-
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary>
-      <h2 align="left" style="display: block;">
-        WIP
-      </h2>
-    </summary>
-    
-  </ul>
-</div>
