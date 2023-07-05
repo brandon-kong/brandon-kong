@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://bestanimations.com/media/guys-dancing/802306631funny-guys-dancing-animated-gif-10.gif" height="auto" width="400" style="border-radius: 50px" alt="Cool dancing :)"/>
+  <img src="https://media1.giphy.com/media/Rlwz4m0aHgXH13jyrE/200w.gif?cid=790b7611q89vo2cjviod0q6o8xqlyex4v3t77mywvl369090&ep=v1_gifs_search&rid=200w.gif&ct=g" height="auto" width="400" style="border-radius: 50px" alt="Cool dancing :)"/>
 </p>
 
 <hr>
