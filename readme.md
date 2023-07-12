@@ -18,7 +18,7 @@
 </h2>
 
 <p align="center">
-  I'm a college student 📝majoring in Computer Science 💻🔬. I started coding in 6th grade when I was introduced to 2D games in Love2D 🕹💗. Since then, I live, breath, and think in programming terms 24/7 👩‍💻. Now, I have fun creating 3D games in Unreal Engine 🤯, building full stack applications and open-source packages/libraries for others to use 📚, and wondering when I'm finally going to get a good night's sleep 😴.
+  Thank you for taking the time to check out my Github Profile! A little bit about me: I'm a college student 📝majoring in Computer Science 💻🔬. I started coding in 6th grade when I was introduced to 2D games in Love2D 🕹💗. Since then, I live, breath, and think in programming terms 24/7 👩‍💻. Now, I have fun creating 3D games in Unreal Engine 🤯, building full stack applications and open-source packages/libraries for others to use 📚, and wondering when I'm finally going to get a good night's sleep 😴.
   
   
 </p>
