@@ -1,4 +1,4 @@
-<img src="/Hello!-2.png" style="border-radius:50%"/>
+<img src="/Hello!.gif" style="border-radius:50%"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brandon-kong&show_icons=true&theme=dark" />
