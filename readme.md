@@ -1,7 +1,4 @@
 <img src="/Hello!-2.png" style="border-radius:50%"/>
-<h1 align="center">  
-  Brandon Kong
-</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brandon-kong&show_icons=true&theme=dark" />
