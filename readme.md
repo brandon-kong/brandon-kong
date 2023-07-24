@@ -1,7 +1,8 @@
 <img src="/Hello!.gif" style="border-radius:50%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandon-kong&show_icons=true&theme=dark" />
+<br />
+<p>
+  I'm Brandon Kong: a full-stack developer, a software engineer, and whatever people call themselves these days. I've been programming for 7 years of my life, and I've absolutely fallen in love with it since then. Now if you excuse me, I will be going outside after I <del>fix this bug which should take no time at all!</del>
 </p>
 
 <p align="center">
@@ -9,13 +10,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">
-  About me
-</h2>
-
-<p align="center">
-  Thank you for taking the time to check out my Github Profile! A little bit about me: I'm a college student 📝majoring in Computer Science 💻🔬. I started coding in 6th grade when I was introduced to 2D games in Love2D 🕹💗. Since then, I live, breath, and think in programming terms 24/7 👩‍💻. Now, I have fun creating 3D games in Unreal Engine 🤯, building full stack applications and open-source packages/libraries for others to use 📚, and wondering when I'm finally going to get a good night's sleep 😴.
-  
-  
-</p>
