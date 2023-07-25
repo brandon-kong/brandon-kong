@@ -22,14 +22,14 @@
             <h2>Frontend Development</h2>
             <ul>
                 <div ><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</div>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/react-color.svg" width='20px' /> React</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/vuedotjs-color.svg" width='20px' /> Vue.js</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/css3-color.svg" width='20px' /> CSS 3</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/chakraui-color.svg" width='20px' /> Chakra UI</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/tailwindcss-color.svg" width='20px' /> Tailwind CSS</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/gatsby-color.svg" width='20px' /> Gatsby.js</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/jest-color.svg" width='20px' /> Jest</li>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/react-color.svg" width='20px' /> React</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/vuedotjs-color.svg" width='20px' /> Vue.js</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/css3-color.svg" width='20px' /> CSS 3</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/chakraui-color.svg" width='20px' /> Chakra UI</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/tailwindcss-color.svg" width='20px' /> Tailwind CSS</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/gatsby-color.svg" width='20px' /> Gatsby.js</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/jest-color.svg" width='20px' /> Jest</div>
             </ul>
         </div>
          <div
@@ -37,18 +37,18 @@
         >
             <h2>Backend Development</h2>
             <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center">
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/nextdotjs-color.svg" width='20px' /> Next.js</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/prisma-color.svg" width='20px' /> Prisma DB</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/postgresql-color.svg" width='20px' /> PostgreSQL</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/django-color.svg" width='20px' /> Django Web</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/tensorflow-color.svg" width='20px' /> Tensorflow</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/springboot-color.svg" width='20px' /> Spring Boot</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/express-color.svg" width='20px' /> Express.js</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/mongodb-color.svg" width='20px' /> MongoDB</li>
-                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/firebase-color.svg" width='20px' /> Firebase</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/supabase-color.svg" width='20px' /> Supabase</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/flask-color.svg" width='20px' /> Flask</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/jsonwebtokens-color.svg" width='20px' /> JWT</li>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/nextdotjs-color.svg" width='20px' /> Next.js</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/prisma-color.svg" width='20px' /> Prisma DB</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/postgresql-color.svg" width='20px' /> PostgreSQL</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/django-color.svg" width='20px' /> Django Web</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/tensorflow-color.svg" width='20px' /> Tensorflow</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/springboot-color.svg" width='20px' /> Spring Boot</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/express-color.svg" width='20px' /> Express.js</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/mongodb-color.svg" width='20px' /> MongoDB</div>
+                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/firebase-color.svg" width='20px' /> Firebase</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/supabase-color.svg" width='20px' /> Supabase</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/flask-color.svg" width='20px' /> Flask</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/jsonwebtokens-color.svg" width='20px' /> JWT</div>
             </ul>
         </div>
          <div
@@ -56,16 +56,16 @@
         >
             <h2>Proficient Languages</h2>
             <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center">
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/python-color.svg" width='20px' /> Python</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/java-color.png" width='20px' /> Java</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/php-color.svg" width='20px' /> PHP</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/lua-color.svg" width='20px' /> Lua</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/c-color.svg" width='20px' /> C</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/csharp-color.svg" width='20px' /> C#</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/typescript-color.svg" width='20px' /> TypeScript</li>
-                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/css3-color.svg" width='20px' /> CSS 3</li>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/python-color.svg" width='20px' /> Python</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/java-color.png" width='20px' /> Java</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/php-color.svg" width='20px' /> PHP</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/lua-color.svg" width='20px' /> Lua</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/c-color.svg" width='20px' /> C</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/csharp-color.svg" width='20px' /> C#</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/typescript-color.svg" width='20px' /> TypeScript</div>
+                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/css3-color.svg" width='20px' /> CSS 3</div>
             </ul>
         </div>
          <div
@@ -73,11 +73,11 @@
         >
             <h2>Other Technologies I Use</h2>
             <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center"">
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/git-color.svg" width='20px' /> Git</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/github-color.svg" width='20px' /> GitHub</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/docker-color.svg" width='20px' /> Docker</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/unity-color.svg" width='20px' /> Unity</li>
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/unrealengine-color.svg" width='20px' /> Unreal Engine</li>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/git-color.svg" width='20px' /> Git</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/github-color.svg" width='20px' /> GitHub</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/docker-color.svg" width='20px' /> Docker</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/unity-color.svg" width='20px' /> Unity</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/unrealengine-color.svg" width='20px' /> Unreal Engine</div>
             </ul>
         </div>
     </div>
