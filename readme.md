@@ -7,16 +7,21 @@
 </p>
 
 <br />
+<br />
+<br />
+<br />
 
-<img src="./files/tech2.gif" style="border-radius:20px"/>
+<p align="center">
+    <img src="./files/tech2.gif" height="150px" width="600px" style="border-radius:20px"/>
+</p>
 <div align="center">
     <div style="display: flex; flex-direction: column; gap: 5px">
         <div
         align="center"
         >
             <h2>Frontend Development</h2>
-            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 130px); grid-gap: 30px; justify-content: center">
-                <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</li>
+            <ul>
+                <div ><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</div>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/react-color.svg" width='20px' /> React</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/vuedotjs-color.svg" width='20px' /> Vue.js</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</li>
