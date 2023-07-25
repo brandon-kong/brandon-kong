@@ -8,13 +8,14 @@
 
 <br />
 
-<div style="display: flex; justify-content: space-between;">
+<img src="./files/tech2.gif" style="border-radius:20px"/>
+<div align="center">
     <div style="display: flex; flex-direction: column; gap: 5px">
         <div
-        style="display: flex; flex-direction: column; gap: 5px"
+        align="center"
         >
             <h2>Frontend Development</h2>
-            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 130px); grid-gap: 30px">
+            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 130px); grid-gap: 30px; justify-content: center">
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/react-color.svg" width='20px' /> React</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/vuedotjs-color.svg" width='20px' /> Vue.js</li>
@@ -30,7 +31,7 @@
         style="display: flex; flex-direction: column; gap: 5px"
         >
             <h2>Backend Development</h2>
-            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px">
+            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center">
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/nextdotjs-color.svg" width='20px' /> Next.js</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/prisma-color.svg" width='20px' /> Prisma DB</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/postgresql-color.svg" width='20px' /> PostgreSQL</li>
@@ -49,7 +50,7 @@
         style="display: flex; flex-direction: column; gap: 5px"
         >
             <h2>Proficient Languages</h2>
-            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px">
+            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center">
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/python-color.svg" width='20px' /> Python</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/java-color.png" width='20px' /> Java</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</li>
@@ -63,10 +64,10 @@
             </ul>
         </div>
          <div
-        style="display: flex; flex-direction: column; gap: 5px"
+        style="display: flex; flex-direction: column; gap: 5px; "
         >
             <h2>Other Technologies I Use</h2>
-            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px">
+            <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center"">
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/git-color.svg" width='20px' /> Git</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/github-color.svg" width='20px' /> GitHub</li>
                 <li style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/docker-color.svg" width='20px' /> Docker</li>
@@ -75,7 +76,6 @@
             </ul>
         </div>
     </div>
-    <img src="./files/tech.gif" width='120px' height='auto' style="border-radius:20px"/>
 </div>
 
 <style>h1,h2,h3,h4 { border-bottom: 0; } </style>
