@@ -12,7 +12,7 @@
 <br />
 
 <p align="center">
-    <img src="./files/tech2.gif" height="150px" width="600px" style="border-radius:20px"/>
+    <img src="./files/tech2.gif"  style="border-radius:20px"/>
 </p>
 <div align="center">
     <div style="display: flex; flex-direction: column; gap: 5px">
