@@ -10,8 +10,6 @@ Welcome to my GitHub Profile! 👋
 
 <br />
 <br />
-<br />
-<br />
 
 <p align="center">
     <img src="./files/tech2.gif"  style="border-radius:20px"/>
