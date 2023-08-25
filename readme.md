@@ -1,3 +1,7 @@
+# @brandon-kong
+
+Welcome to my GitHub Profile! 👋
+
 <img src="./files/header.gif" style="border-radius:20px"/>
 
 <br />
