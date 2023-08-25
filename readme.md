@@ -2,8 +2,6 @@
 
 Welcome to my GitHub Profile! 👋
 
-<img src="./files/header.gif" style="border-radius:20px"/>
-
 <br />
 <p>
     I'm Brandon Kong: a full-stack developer, a software engineer, and whatever people call themselves these days. I've been programming for 7 years of my life, and I've absolutely fallen in love with it since then. Now if you excuse me, I will be going outside after I 
