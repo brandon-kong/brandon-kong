@@ -4,7 +4,7 @@ Welcome to my GitHub Profile! 👋
 
 <br />
 <p>
-    I'm Brandon Kong: a full-stack developer, a software engineer, and a lover of Kung Fu Panda. I've been programming for 7 years of my life, and I've absolutely fallen in love with it since then. Now if you excuse me, I will be going outside after I 
+    I'm Brandon Kong: a full-stack developer, a software engineer, and a lover of Kung Fu Panda. I've been programming for over 5 years of my life, and I've absolutely fallen in love with it since then. Now if you excuse me, I will be going outside after I 
     <del>fix this bug which should take no time at all!</del>
 </p>
 
