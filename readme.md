@@ -62,7 +62,7 @@ Welcome to my GitHub Profile! 👋
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/javascript-color.svg" width='20px' /> JavaScript</div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/php-color.svg" width='20px' /> PHP</div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/lua-color.svg" width='20px' /> Lua</div>
-                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/c-color.svg" width='20px' /> C</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/c-color.svg" width='20px' /> C/C++</div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/csharp-color.svg" width='20px' /> C#</div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/typescript-color.svg" width='20px' /> TypeScript</div>
                  <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/html5-color.svg" width='20px' /> HTML 5</div>
