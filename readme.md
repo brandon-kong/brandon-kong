@@ -1,7 +1,7 @@
 # @brandon-kong
 
 [![wakatime](https://wakatime.com/badge/user/018c7101-3a1e-4e5e-bbc1-d34eaf1d8906.svg)](https://wakatime.com/@018c7101-3a1e-4e5e-bbc1-d34eaf1d8906)
-[![](https://komarev.com/ghpvc/?username=brandon-kong)
+![](https://komarev.com/ghpvc/?username=brandon-kong)
 
 Welcome to my GitHub Profile! 👋
 
