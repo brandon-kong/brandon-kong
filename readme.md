@@ -75,7 +75,7 @@ Welcome to my GitHub Profile! 👋
             <h2>Other Technologies I Use</h2>
             <ul style="list-style: none; display: grid; grid-template-columns: repeat(3, 120px); grid-gap: 30px; justify-content: center"">
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/git-color.svg" width='20px' /> Git</div>
-                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/github-color.svg" width='20px' /> GitHub</div>
+                <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/github-color.svg" width='20px' /> GitHub (...this comes as a shocker) </div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/docker-color.svg" width='20px' /> Docker</div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/unity-color.svg" width='20px' /> Unity</div>
                 <div style="display: flex; align-items: center; gap: 5px"><img src="./files/icons/unrealengine-color.svg" width='20px' /> Unreal Engine</div>
