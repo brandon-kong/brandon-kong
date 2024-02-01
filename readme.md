@@ -1,6 +1,6 @@
-# @brandon-kong
+<img src="./files/header.png"  style="border-radius:20px"/>
 
-[![wakatime](https://wakatime.com/badge/user/018c7101-3a1e-4e5e-bbc1-d34eaf1d8906.svg)](https://wakatime.com/@018c7101-3a1e-4e5e-bbc1-d34eaf1d8906)
+<h1 align="center">Hi there! I'm Brandon Kong</h1>
 
 Welcome to my GitHub Profile! 👋
 
