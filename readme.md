@@ -1,5 +1,6 @@
 <img src="./files/header.png"  style="border-radius:20px"/>
 
+<h1 align="center">Hey! I'm Brandon Kong 👋</h1>
 <p>
 
 I'm Brandon, and I'm a software engineer/game developer. I'm currently a student at DePaul University, pursuing Computer Science. 
