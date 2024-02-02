@@ -22,6 +22,6 @@ One of the areas I find particurly interesting is user authentication and explor
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0wy58v4k1seh4grvacxy5qp0j&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=fed53a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="https://linkedin.com/in/brandon-kong0">
+<a href="https://linkedin.com/in/brandondkong">
     <img src="./files/footer.png"/>
 </a>
