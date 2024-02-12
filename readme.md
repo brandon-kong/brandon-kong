@@ -1,4 +1,6 @@
-<img src="./files/header.png"  style="border-radius:20px"/>
+<a href="https://bdkong.com">
+    <img src="./files/header.png"  style="border-radius:20px"/>
+</a>
 
 <h1 align="center">Hey there! I'm Brandon Kong 👋</h1>
 <p>
