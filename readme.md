@@ -10,9 +10,9 @@ I'm Brandon, a passionate software engineer/game developer currently studying Co
 I'm also a research assistant as part of the Motorola Solutions Foundation Program, where I work on Bioinformatics in the context of
 brain stem nuclei localization using machine learning.
 
-I am humbled to have been programming for over 6 years, and I've 
-had the opportunity to work on some popular game titles, accumulating
-millions of plays. 
+I am humbled to have been programming for over 6 years, with experience in software applications
+and game development. I've had the opportunity to work on some popular game titles, accumulating
+millions of plays. Additionally, I've worked with successful startups to build applications.
 
 </p>
 
