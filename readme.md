@@ -16,7 +16,7 @@ millions of plays. Additionally, I've worked with successful startups to build a
 
 </p>
 
-Over the years, I've gained proficiency in **Java**, **Python**, **C++**, **JS/TS**, and **Lua**, but I've also worked on several projects using **C#**, **Rust**, **Go**, **PHP**, and **Scala**. Naturally, I picked up different web frameworks such as **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, **Express**, and more to come! 
+Over the years, I've gained proficiency in **Java**, **Python**, **C++**, **JS/TS**, and **Lua**, but I've also worked on several projects using **C#**, **Rust**, **Go**, **PHP**, and **Scala**. Naturally, I picked up different web frameworks such as **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, **Express**, and many more to come! 
 
 One of the areas I find particurly interesting is user authentication and exploring robust ways of protecting user privacy and security. 
 
