@@ -1,24 +1,22 @@
-<a href="https://bdkong.com">
-    <img src="./files/header.png"  style="border-radius:20px"/>
+<a href="https://brandondkong.com">
+    <img src="./files/header.png" style="border-radius:20px"/>
 </a>
 
-<h1 align="center">Hello! I'm Brandon Kong 👋</h1>
+<h1 align="center">Hi, I'm Brandon Kong 👋</h1>
+
 <p>
 
-I'm Brandon, a passionate software engineer/game developer currently studying Computer Science at DePaul University. I find myself exploring new technologies and learning new concepts every day. I'm always looking for new opportunities to grow and expand my knowledge.
+I'm a software engineer and game developer studying Computer Science at DePaul University. I enjoy exploring new technologies and building creative projects.
 
-I'm also a research assistant as part of the Motorola Solutions Foundation Program, where I work on Bioinformatics in the context of
-brain stem nuclei localization using machine learning.
+As a research assistant through the Motorola Solutions Foundation Program, I work on brain stem nuclei localization using machine learning in the field of bioinformatics.
 
-I am humbled to have been programming for over 6 years, with experience in software applications
-and game development. I've had the opportunity to work on some popular game titles, accumulating
-millions of plays. Additionally, I've worked with successful startups to build applications.
+With over 7 years of experience, I've contributed to widely played games and helped startups bring ideas to life through robust applications.
 
 </p>
 
-Over the years, I've gained proficiency in **Java**, **Python**, **C++**, **JS/TS**, and **Lua**, but I've also worked on several projects using **C#**, **Rust**, **Go**, **PHP**, and **Scala**. Naturally, I picked up different web frameworks such as **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, **Express**, and many more to come! 
+I’ve worked with **Java**, **Python**, **C++**, **JS/TS**, and **Lua**, and have experience with **C#**, **Rust**, **Go**, **PHP**, and **Scala**. I’ve also built projects using frameworks like **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, and **Express**.
 
-One of the areas I find particularly interesting is user authentication and exploring robust ways of protecting user privacy and security. 
+I'm especially interested in user authentication and building secure systems.
 
 ### What I'm listening to 🎧
 
