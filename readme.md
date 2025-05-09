@@ -14,9 +14,18 @@ With over 7 years of experience, I've contributed to widely played games and hel
 
 </p>
 
-I’ve worked with **Java**, **Python**, **C++**, **JS/TS**, and **Lua**, and have experience with **C#**, **Rust**, **Go**, **PHP**, and **Scala**. I’ve also built projects using frameworks like **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, and **Express**.
+My primary programming languages include but are not limited to:
+- Go
+- C/C++
+- Lua
+- TypeScript/JavaScript
+- Python
+- Java
 
-I'm especially interested in user authentication and building secure systems.
+However, I've built many projects with other technologies such as C#, Rust, Scala, and PHP.
+I’ve also built projects using frameworks like **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, and **Express**.
+
+I'm especially interested in user authentication and building secure systems using the latest OAuth protocols.
 
 ### What I'm listening to 🎧
 
